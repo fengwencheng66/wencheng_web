@@ -11,8 +11,6 @@
    :caption: Contents
 
 
-   slides/index
-
    macroeconomics/index
    
    growth/index
