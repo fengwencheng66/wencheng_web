@@ -8,7 +8,7 @@
 # import sphinx_rtd_theme
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
-import recommonmark
+# import recommonmark
 
 project = '文成的学习笔记'
 copyright = '2022, 文成不成文'
@@ -17,7 +17,7 @@ author = '文成不成文'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['recommonmark']
+# extensions = ['recommonmark']
 
 templates_path = ['_templates']
 exclude_patterns = []
