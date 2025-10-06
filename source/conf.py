@@ -22,7 +22,7 @@ extensions = ['recommonmark']
 templates_path = ['_templates']
 exclude_patterns = []
 
-language = 'en'
+# language = 'en'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
