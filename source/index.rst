@@ -8,12 +8,12 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: 目录
 
 
    macroeconomics/index
    
-   # growth/index
+   growth/index
 
    various/index
 
