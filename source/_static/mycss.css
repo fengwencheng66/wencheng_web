@@ -1,0 +1,17 @@
+/* 确保链接样式覆盖主题默认设置 */
+.rst-content a:link,
+.rst-content a:visited {
+    color: #007eb6 !important; /* 未访问和已访问链接使用相同颜色 */
+    text-decoration: none !important; /* 可选：移除下划线 */
+}
+
+/* 鼠标悬停时的样式（可选自定义） */
+.rst-content a:hover {
+    color: #3498db !important; /* 悬停时颜色可微调 */
+    text-decoration: underline !important;
+}
+
+/* 点击瞬间的样式（可选） */
+.rst-content a:active {
+    color: #1f6dad !important;
+}

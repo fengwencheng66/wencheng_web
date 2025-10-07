@@ -47,3 +47,9 @@ extensions = [
     # 或 'sphinx.ext.imgmath' （生成图片格式公式）
 ]
 
+
+html_static_path = ['_static']
+
+# 注册自定义 CSS
+def setup(app):
+    app.add_css_file('mycss.css')  # 加载创建的CSS文件
