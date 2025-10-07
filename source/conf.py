@@ -31,7 +31,7 @@ exclude_patterns = []
 # html_theme = 'sphinx_rtd_theme'
 # html_theme = "press"
 # html_static_path = ['_static']
-extensions = ['recommonmark']
+# extensions = ['recommonmark']
 # from recommonmark.parser import CommonMarkParser
 # source_parsers = {
 #    '.md': CommonMarkParser,
