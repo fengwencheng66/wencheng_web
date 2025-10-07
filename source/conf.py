@@ -12,8 +12,8 @@
 # import recommonmark
 
 project = '文成不成文'
-copyright = '2021, 文成不成文'
-author = '文成不成文'
+copyright = '2021, 冯文成'
+author = '冯文成'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
