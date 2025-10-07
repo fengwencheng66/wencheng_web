@@ -5,13 +5,14 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
+
 # import sphinx_rtd_theme
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # import recommonmark
 
 project = '文成不成文'
-copyright = '2022, 文成不成文'
+copyright = '2021, 文成不成文'
 author = '文成不成文'
 
 # -- General configuration ---------------------------------------------------
