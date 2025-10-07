@@ -47,11 +47,4 @@ extensions = [
     # 或 'sphinx.ext.imgmath' （生成图片格式公式）
 ]
 
-extensions = ['myst_parser']
-
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.txt': 'markdown',
-    '.md': 'markdown',
-}
 
