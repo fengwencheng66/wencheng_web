@@ -10,7 +10,7 @@
 
 # import recommonmark
 
-project = '文成的学习笔记'
+project = '文成不成文'
 copyright = '2022, 文成不成文'
 author = '文成不成文'
 
