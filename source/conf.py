@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-# import sphinx_rtd_theme
+import sphinx_rtd_theme
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # import recommonmark
@@ -28,7 +28,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-# html_theme = "sphinx_rtd_theme"
+html_theme = "sphinx_rtd_theme"
 # html_theme = "press"
 # html_static_path = ['_static']
 extensions = ['recommonmark']
