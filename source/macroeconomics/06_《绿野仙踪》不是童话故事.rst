@@ -1,6 +1,7 @@
 
 
-# 《绿野仙踪》不是童话故事
+《绿野仙踪》不是童话故事
+===========================
 
 作者：赖建诚
 
@@ -10,7 +11,7 @@
 
 
 
-![img](/figures/Baum.jpg)
+.. image:: figures/Baum.jpg
 
 L. 弗兰克·鲍姆（1856～1919）
 
@@ -28,7 +29,7 @@ L. 弗兰克·鲍姆（1856～1919）
 
 在这个童话故事中，多萝西代表美国的诚实、善良、勇敢。有人考证说，现实世界里的多萝西，本名是Mary Elizabeth Lease，她是人民党的著名演说者，绰号是“堪萨斯的龙卷风”（Kansas Tornado）。陪伴多萝西的小狗嘟嘟（Toto，和某个知名的卫浴厂牌同名），它所对应的是禁酒党（Prohibition Party）。这个小党的宗旨，是反对销售、饮用酒精类的饮料，也是白银自由化的支持者。为什么叫Toto？有人说这是Teetotaler（禁酒主义者）的缩写。
 
-![img](/figures/oz02.jpg)
+.. image:: figures/oz02.jpg
 
 The Wonderful Wizard of Oz（《绿野仙踪》，1900）
 
