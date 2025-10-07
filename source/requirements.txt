@@ -1,2 +1,2 @@
-sphinx
-sphinx_rtd_theme
+sphinx==7.4.7
+sphinx_rtd_theme==3.23
