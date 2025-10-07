@@ -18,7 +18,7 @@ author = '文成不成文'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['recommonmark']
+
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -31,7 +31,7 @@ exclude_patterns = []
 # html_theme = "sphinx_rtd_theme"
 # html_theme = "press"
 # html_static_path = ['_static']
-
+extensions = ['recommonmark']
 # from recommonmark.parser import CommonMarkParser
 # source_parsers = {
 #    '.md': CommonMarkParser,
@@ -39,7 +39,7 @@ exclude_patterns = []
 # source_suffix = ['.rst', '.md']
 
 extensions = [
-    # ... 其他扩展
+    # ... 数学公式扩展项
     'sphinx.ext.mathjax',  # 推荐，使用MathJax渲染
     # 或 'sphinx.ext.imgmath' （生成图片格式公式）
 ]
