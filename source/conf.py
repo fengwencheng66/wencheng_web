@@ -52,6 +52,5 @@ extensions = ['myst_parser']
 
 source_suffix = {
     '.rst': 'restructuredtext',
-    '.txt': 'markdown',
     '.md': 'markdown',
 }
