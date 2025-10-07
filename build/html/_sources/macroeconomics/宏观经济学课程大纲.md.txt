@@ -1,0 +1,176 @@
+# 宏观经济学课程大纲
+
+**Macroeconomics**
+
+
+
+### 时间地点 Time and Location
+
+- Session I: IBC 英会2201  Tuesday (5-7) from 13:00 pm to 15:25 pm at 203 书音;
+
+- Session II: IBC 英会2202 Friday (2-4) from 8:50 am to 11:30 pm at 203 书音;
+
+  
+
+### 任课教师 Instructor: 
+
+- 冯文成 Feng Wencheng
+
+- Email: fengwencheng66@163.com
+
+- Office: 512 师言阁
+
+- Office hours: by appointment.
+
+
+
+### 课程概述 Course Overview
+
+Macroeconomics is the study of the economy as a whole, including growth in incomes, changes in prices, and the rate of unemployment. The objective of this course is to gain a formal understanding of macroeconomic topics such as what determines economic growth, what are the consequences of economic fluctuations, and what are the short run and long run determinants of aggregate income, wages rates, exchange rates, inflation rates, interest rates, and unemployment rates. In order to do this we will study the main models that have been developed by macroeconomists to explain the behavior of economies and to investigate the implications of those models for policy-making decisions.
+
+### 先修课程 Prerequisites
+
+I assume that you have a basic understanding of macro and microeconomic principles
+
+(Mankiw’s "*Ten Principles of Economics*"), basic algebra, and elementary calculus. 
+
+### 课程目标 Course Objectives
+
+The goal of this course is to enable students to assess the macroeconomic environment in which a business operates.
+
+Macroeconomic conditions play important roles in business decisions and performance: Aggregate income, unemployment, and inflation rate influence profitability, interest rates determine the cost of capital, and exchange rates affect international competitiveness.
+
+At the end of the course it is expected that students will be able to critically asses how possible developments in the macro economy and international economy – such as the change in the monetary policy stance by the Central Bank of China or the Federal Reserve, for example – will affect the business environment relevant to their specific industry.
+
+### 学时安排 Course Format
+
+This class meets once every week and the whole course lasts 18 weeks. Students are required to attend to every session and exam, which are not optional.
+
+### 课程要求 Course Requirements
+
+Gradings for this course will be based on participation and homeworks (30%) as well as a final exam (70%).
+
+Regular attendance is essential to successfully completing this course. As such, I expect you to attend all of the lectures. If you need to miss a class, it is your responsibility to obtain all lecture notes and assignments from one of your classmates.
+
+### 教材选用 Textbook
+
+- The required textbook:
+
+  * Mankiw, N. G. :  *Macroeconomics* (9th, 10th Edition) (用英文版)
+
+- Reference, not required:
+
+  * 马克思主义理论研究和建设工程重点教材 《西方经济学:下册(宏观部分)》
+  * Olivier Blanchard (2017):  *Macroeconomics* (7th，8th Edition)
+
+The Mankiw's book is, to date, the best-selling undergraduate macroeconomics textbook–for good reason in my opinion. While not perfect, Mankiw does an admirable job of explaining the key macroeconomic concepts and theories without overwhelming the reader with mathematics.
+
+### 课程内容 CONTENTS
+
+**Module 1. Introduction**
+
+In this first module, we will prepare ourselves for the semester by reviewing the course syllabus and policies, discussing the broad questions that macroeconomics aims to answer or address, and (re-)familiarizing ourselves with the key data of macroeconomics. We will review the definitions and methods for calculating Gross Domestic Product, the Consumer Price Index, and Unemployment.
+
+**Chapter 1 The Science of Macroeconomics**
+
+- What Macroeconomists Study 
+- How Economists Think
+- How This Book Proceeds
+
+**Chapter 2 The Data of Macroeconomics**
+
+- Gross Domestic Product
+- The Consumer Price Index 
+- The Unemployment Rate
+
+
+
+**Module 2. Classical Theory: The Long Run**
+
+Module 2 introduces the Classical Theory of Macroeconomics, which focuses on the econ- omy in the long run. This “long run”refers to the time horizon over which all prices are flexible. We will begin by developing the basic classical model of national income. We will then intro- duce money and prices into this model of the economy in Week 2. And in Week 3, we will relax the assumption of full employment to examine the dynamics of the labor market and the natural rate of unemployment.
+
+**Chapter 3 National Income**
+
+- What Determines the Total Production of Goods and Services?
+- How is National Income Distributed to the Factors of Production?
+- What Determines the Demand for Goods and Services?
+- What Brings the Supply and Demand for Goods and Services Into Equilibrium?
+
+**Chapter 4 The Monetary System: What It Is and How It Works**
+
+- What Is Money?
+-  The Role of Banks in the Monetary System
+-  How Central Banks Influence the Money Supply
+
+**Chapter 5 Inflation**
+
+- The Quantity Theory of Money
+- Seigniorage
+- Inflation and Interest Rates
+- The Nominal Interest Rate and the Demand for Money 
+- The Social Costs of Inflation
+- Hyperinflation
+
+**Chapter 6 The Open Economy**(optional)
+
+- The International Flows of Capital and Goods
+- Saving and Investment in a Small Open Economy Exchange Rates
+
+**Chapter 7 Unemployment**
+
+- Job Loss, Job Finding, and the Natural Rate of Unemployment 
+- Job Search and Frictional Unemployment
+- Real-Wage Rigidity and Structural Unemployment
+- Labor-Market Experience: The United States
+- Labor-Market Experience: Europe
+
+**Module 3. Growth Theory: The Very Long Run**
+
+In Module 3, we will build on the Classical Model of Macroeconomics by introducing a dynamic component. This will allow us to discuss economic growth. We will begin by developing the Solow Growth Model in Week 1. This model sheds some light on how the economy evolves (or grows) over time. In Week 2, we will introduce technological progress into the Solow Growth Model. As we will discuss, technological progress is the key to economic growth.
+
+
+
+**Chapter 8 Economic Growth I**
+
+- The Accumulation of Capital
+- The Golden Rule Level of Capital Population Growth
+
+**Chapter 9 Economic Growth II**
+
+- Technological Progress in Solow Model
+-  From Growth Theory to Growth Empirics
+-  Policies to Promote Growth
+-  Beyond the Solow Model: Endogenous Growth Theory
+
+**Module 4. Business Cycle Theory: The Short Run**
+
+In Module 4, we will study the short run. The “short run”is defined as the time horizon over which (at least, some) prices in the economy are sticky. We will begin by reviewing some key facts that describe short-run fluctuations in economic activity. In Weeks 2 and 3, we will develop and examine Aggregate Demand. Aggregate Demand represents all spending in the economy. We will study the “Keynesian Cross”and discuss liquidity preferences to build the IS-LM Model. We will then employ this IS-LM Model to explain short-run economic fluctuations. Finally, in Week 5, we will discuss Aggregate Supply. This will allow us to investigate the potential short-run trade-off between unemployment and inflation.
+
+**Chapter 10 Introduction to Economic Fluctuations**
+
+- The Facts About the Business Cycle Time Horizon in Macroeconomics
+- Aggregate Demand
+- Aggregate Supply
+- Stabilization Policy
+
+**Chapter 11 Aggregate Demand I: Building the** IS − LM **Model** 
+
+- The Goods Market and the IS Curve
+- The Money Market and the LM Curve
+- The Short-Run Equilibrium
+
+
+
+**Chapter 12 Aggregate Demand II: Applying the** IS − LM **Model** 
+
+- Explaining Fluctuations With the IS − LM Model
+-  IS − LM Model as a Theory of Aggregate Demand
+-  The Great Depression
+
+**Chapter 14 Aggregate Supply and the Short-Run Tradeoff between Inflation and Unemployment**
+
+- The Basic Theory of Aggregate Supply
+- Inflation, Unemployment, and the Philips Curve
+
+
+
