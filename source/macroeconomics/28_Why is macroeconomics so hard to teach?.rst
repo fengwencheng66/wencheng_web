@@ -1,6 +1,8 @@
-Why is macroeconomics so hard to teach? 
 
-### 为什么宏观经济学这么难讲？
+
+为什么宏观经济学这么难讲？
+===============================
+Why is macroeconomics so hard to teach? 
 
 2021年2月1日
 
@@ -35,14 +37,16 @@ Nick Rowe先生认为，宏观经济学这门学科多少有点“怪异”，�
 
 
 讲好宏观经济学的秘密
+-------------------------
 
 没有对宏观经济现象的强大的直觉，你不可能教好宏观经济学。但要想获得这种直觉，最好的方法就是讲授这门课程。“我每次都学到了一些东西，”Nick Rowe先生说。在“评师网”（Rate my Professors）这个网站上，一个学生向他致以最崇高的敬意：他使得上午8点半的课程成为了最值得一听的课。在他漫长的教学生涯结束时，他的学生们是如何表达他们的感激之情的呢？当然，是给他一个苹果和一根香蕉。
 
 
 
+原文如下：
+--------------------------
 
-
-L AST month NickRowe had a bad dream. It was five minutes before the first class of the autumn term at Carleton University in Ottawa, where he has long taught macroeconomics. But he could not find the classroom. Then he woke up and remembered with relief that he had just retired. 
+LAST month NickRowe had a bad dream. It was five minutes before the first class of the autumn term at Carleton University in Ottawa, where he has long taught macroeconomics. But he could not find the classroom. Then he woke up and remembered with relief that he had just retired. 
 
 Learning macro is a source of anxiety for many students. Teaching it can give their professors the jitters, too. The subject is notoriously difficult to explain well. During his 37 years at Carleton Mr Rowe remained, by his own admission, “fairly low down the totem pole” as a researcher. But he became a thunderbird at conveying macroeconomic intuition. In the past decade this served him well in his second intellectual career, contributing to Worthwhile Canadian Initiative, an economicsblog. Many a controversy has benefited from one ofhis ingenious analogies or numerical parables, usually involving some kind offruit. 
 
