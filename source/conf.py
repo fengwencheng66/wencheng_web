@@ -64,13 +64,4 @@ def setup(app):
 
 
 
-extensions = [
-    'sphinx.ext.autodoc',
-    'myst_parser'
-]
-
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.md': 'markdown',  # 正确配置
-}
 
