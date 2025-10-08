@@ -65,11 +65,14 @@ def setup(app):
 
 
 extensions = [
-    # 其他扩展...
-    'myst_parser'  # 确保这一行存在且无拼写错误
+    'sphinx.ext.autodoc',
+    'myst_parser',  # 必须添加
 ]
 
-
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',  # 正确配置
+}
 
 # 启用 MyST 的扩展功能（按需选择）
 myst_enable_extensions = [
