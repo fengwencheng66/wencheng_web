@@ -7,8 +7,8 @@
    :caption: Contents:
 
   
-   lec01_growth
+   笔记56_增长速度在放缓吗？
 
    现代增长理论简史
-
-   笔记56_增长速度在放缓吗？
+   
+   lec01_growth

@@ -6,19 +6,21 @@
    :maxdepth: 2
    :caption: Contents:
 
-   01_开始的几句话
 
-   28_Why is macroeconomics so hard to teach?
-
-   02_语义陷阱：经济学家的话术
-   
-   06_《绿野仙踪》不是童话故事
-
-   07_直升飞机撒钱 Helicopter Money Drop
-
-   笔记70_央行减少货币供应量会提高利率还是会降低利率
 
    海尔布隆纳的《政治经济学》
   
    卢卡斯批评
   
+   笔记70_央行减少货币供应量会提高利率还是会降低利率
+
+   07_直升飞机撒钱 Helicopter Money Drop
+
+   06_《绿野仙踪》不是童话故事
+
+   02_语义陷阱：经济学家的话术
+ 
+   28_Why is macroeconomics so hard to teach?
+
+   01_开始的几句话
+
