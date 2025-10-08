@@ -63,11 +63,10 @@ def setup(app):
     app.add_css_file('mycss.css')  # 加载创建的CSS文件
 
 
-# conf.py
+
 extensions = [
-    'sphinx.ext.autodoc',  # Sphinx 自带扩展（可选，用于自动生成代码文档）
-    'sphinx.ext.todo',     # Sphinx 自带扩展（可选）
-    'myst_parser',         # 启用 MyST Parser，支持 Markdown
+    # 其他扩展...
+    'myst_parser',  # 确保这一行存在且无拼写错误
 ]
 
 
@@ -82,7 +81,7 @@ myst_enable_extensions = [
     "fieldlist",      # 支持字段列表（如 `:姓名: 张三`）
     "html_admonition",# 支持 HTML 警告框（如 <div class="note">...</div>）
     "html_image",     # 支持 HTML 图片标签（如 <img src="..." />）
-    "linkify",        # 自动将 URL 转换为链接（无需 []()）
+ #   "linkify",        # 自动将 URL 转换为链接（无需 []()）
     "replacements",   # 支持文本替换（如 --- → —）
     "smartquotes",    # 自动将直引号转换为弯引号（如 " → “”）
     "strikethrough",  # 支持删除线（如 ~~文本~~）
