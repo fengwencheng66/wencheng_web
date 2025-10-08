@@ -33,8 +33,8 @@ exclude_patterns = []
 # html_static_path = ['_static']
 
 html_theme ='sphinx_rtd_theme'
-html_static_path = ('_static',)
-html_logo = 'logo.png'  # 如果logo是PNG格式，将文件名替换为相应的PNG文件名
+html_static_path = ('_static')
+html_logo = 'logo.png' 
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
