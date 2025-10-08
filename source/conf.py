@@ -66,29 +66,11 @@ def setup(app):
 
 extensions = [
     'sphinx.ext.autodoc',
-    'myst_parser',  # 必须添加
+    'myst_parser'
 ]
 
 source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',  # 正确配置
 }
-
-# 启用 MyST 的扩展功能（按需选择）
-myst_enable_extensions = [
-    "amsmath",        # 支持 LaTeX 公式（如 $E=mc^2$）
-    "attrs_inline",   # 支持行内属性（如 `text {#id .class}`）
-    "colon_fence",    # 支持 `:::` 作为代码块/容器的分隔符（替代 ```）
-    "deflist",        # 支持定义列表（如 `术语\n: 解释`）
-    "dollarmath",     # 支持 $ 包裹的行内公式和 $$ 包裹的块公式
-    "fieldlist",      # 支持字段列表（如 `:姓名: 张三`）
-    "html_admonition",# 支持 HTML 警告框（如 <div class="note">...</div>）
-    "html_image",     # 支持 HTML 图片标签（如 <img src="..." />）
- #   "linkify",        # 自动将 URL 转换为链接（无需 []()）
-    "replacements",   # 支持文本替换（如 --- → —）
-    "smartquotes",    # 自动将直引号转换为弯引号（如 " → “”）
-    "strikethrough",  # 支持删除线（如 ~~文本~~）
-    "substitution",   # 支持变量替换（如 {{ var }}）
-    "tasklist",       # 支持任务列表（如 - [x] 已完成）
-]
 
