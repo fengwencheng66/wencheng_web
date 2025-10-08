@@ -28,9 +28,17 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
 # html_theme = 'press'
 # html_static_path = ['_static']
+
+html_theme ='sphinx_rtd_theme'
+html_static_path = ('_static',)
+html_logo = 'logo.png'  # 如果logo是PNG格式，将文件名替换为相应的PNG文件名
+html_theme_options = {
+    'logo_only': False,
+    'display_version': False,
+}
 
 # extensions = ['recommonmark']
 
