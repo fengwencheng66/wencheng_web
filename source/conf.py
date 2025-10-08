@@ -66,7 +66,7 @@ def setup(app):
 
 extensions = [
     # 其他扩展...
-    'myst_parser',  # 确保这一行存在且无拼写错误
+    'myst_parser'  # 确保这一行存在且无拼写错误
 ]
 
 
