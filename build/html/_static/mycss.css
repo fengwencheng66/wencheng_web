@@ -15,3 +15,11 @@
 .rst-content a:active {
     color: #1f6dad !important;
 }
+
+/* 调整侧边栏中logo的大小 */
+.wy-side-nav-search .wy-dropdown > a img.logo,
+.wy-side-nav-search > a img.logo {
+    width: 200px;  /* 设置宽度 */
+    height: auto;  /* 高度自动适应，保持比例 */
+    max-width: 100%;  /* 避免超出容器 */
+}
