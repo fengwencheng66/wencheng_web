@@ -49,6 +49,14 @@ html_theme_options = {
 # source_suffix = ['.rst', '.md']
 
 
+html_static_path = ['_static']
+
+# 注册自定义 CSS
+def setup(app):
+    app.add_css_file('mycss.css')  # 加载创建的CSS文件
+
+
+
 extensions = [
     # ... 数学公式扩展项
     'sphinx.ext.mathjax',  # 推荐，使用MathJax渲染
@@ -77,12 +85,6 @@ myst_enable_extensions = [
     "substitution",
     "tasklist",
 ]
-
-html_static_path = ['_static']
-
-# 注册自定义 CSS
-def setup(app):
-    app.add_css_file('mycss.css')  # 加载创建的CSS文件
 
 
 
