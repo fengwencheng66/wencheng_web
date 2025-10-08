@@ -1,8 +1,7 @@
 #!/Users/fengwencheng/Documents/GitHub/wencheng_web/wencheng_web/wenchengvenv/bin/python3
-# -*- coding: utf-8 -*-
-import re
 import sys
 from myst_parser.parsers.docutils_ import cli_pseudoxml
 if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
     sys.exit(cli_pseudoxml())
