@@ -4,7 +4,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目录
 
 
    资本积累技术进步与经济增长.md
